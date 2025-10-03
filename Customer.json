@@ -1,0 +1,63 @@
+[
+    {
+        "nombre_usuario": "Juan Pérez",
+        "user_name": "juan.perez",
+        "password": "abc123",
+        "mascota": {
+            "nombre": "Rocky",
+            "raza": "Labrador Retriever",
+            "edad": "2 años 3 meses",
+            "sexo": "machito",
+            "condiciones_salud_previas": [
+                "alergia a pollo",
+                "operación de esterilización"
+            ]
+        }
+    },
+    {
+        "nombre_usuario": "María López",
+        "user_name": "maria.lopez",
+        "password": "MariaL456!",
+        "mascota": {
+            "nombre": "Luna",
+            "raza": "Poodle",
+            "edad": "5 años",
+            "sexo": "hembrita",
+            "condiciones_salud_previas": [
+                "ceguera parcial"
+            ]
+        }
+    },
+    {
+        "nombre_usuario": "Carlos Ramírez",
+        "user_name": "carlos.ramirez",
+        "password": "CarlosR789!",
+        "mascota": {
+            "nombre": "Max",
+            "raza": "Bulldog Francés",
+            "edad": "8 meses",
+            "sexo": "machito",
+            "condiciones_salud_previas": []
+        }
+    },
+    {
+        "nombre_usuario": "Ana Torres",
+        "user_name": "ana.torres",
+        "password": "AnaT321!",
+        "mascota": {
+            "nombre": "Canela",
+            "raza": "Beagle",
+            "edad": "3 años 6 meses",
+            "sexo": "hembrita",
+            "condiciones_salud_previas": [
+                "alergia a pulgas",
+                "operación de pata trasera"
+            ]
+        }
+    }
+]{"edad": "2 años 3 meses", "sexo": "machito", "condiciones_salud_previas": ["alergia a pollo", "operación de esterilización"]}:
+{
+"condiciones_salud_previas": ["alergia a pollo", "operación de esterilización"],
+"apetito": "decaído",
+"temperatura": "no especificado"
+}
