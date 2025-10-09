@@ -55,9 +55,4 @@
             ]
         }
     }
-]{"edad": "2 años 3 meses", "sexo": "machito", "condiciones_salud_previas": ["alergia a pollo", "operación de esterilización"]}:
-{
-"condiciones_salud_previas": ["alergia a pollo", "operación de esterilización"],
-"apetito": "decaído",
-"temperatura": "no especificado"
-}
+]
